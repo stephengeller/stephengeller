@@ -8,6 +8,8 @@ I love learning a diverse range of technologies both through my work and experim
 
 I'm a polyglot engineer, but I tend to write Typescript, JS, Python, Shell and Ruby most often. I'm slowly getting my head around Scala.
 
+You can find out more about me by viewing [My Manual Of Me](https://github.com/stephengeller/user_manual_for_me).
+
 Pronouns: He/Him
 
 ## Contact me
