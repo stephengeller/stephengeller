@@ -2,7 +2,7 @@
 
 **My name is Stephen and I am an ambitious software engineer based in Melbourne, Australia.** I pick up new skills very quickly, and can produce clean tested code following best practices.
 
-I am a graduate from [Makers Academy](http://www.makersacademy.com) - a 12-week intensive development bootcamp - and am currently employed at [Cogent](https://cogent.co/) as a Software Engineer, specialising in tools and infrastructure.
+I am a graduate from [Makers Academy](http://www.makersacademy.com) - a 12-week intensive development bootcamp - and am currently employed at [Cogent](https://cogent.co/) as a Software Engineer.
 
 I love learning a diverse range of technologies both through my work and experimentation, and consistently endorse Agile methodologies and XP values to help deliver the highest quality code with efficiency. I love improving processes, empowering other engineers and finding the best way of solving a problem.
 
