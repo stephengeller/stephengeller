@@ -14,5 +14,4 @@ Pronouns: He/Him
 
 ## Contact me
 
-[LinkedIn](https://www.linkedin.com/in/stephen-geller/) | [My Manual Of Me](https://github.com/stephengeller/user_manual_for_me) | [GitHub CV](https://github.com/stephengeller/CV/blob/master/README.md) | [Email](mailto:github@geller.dev?subject=[GitHub]) | [Twitter](https://twitter.com/_stephengeller) | [Instagram](https://www.instagram.com/stephengeorgebaker/)
-
+[LinkedIn](https://www.linkedin.com/in/stephen-geller/) | [My Manual Of Me](https://github.com/stephengeller/user_manual_for_me) | [GitHub CV](https://github.com/stephengeller/CV/blob/master/README.md) | [Email](mailto:github@geller.dev?subject=[GitHub])
